@@ -1,0 +1,39 @@
+body {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 20% 0 20% 0;
+    padding: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font: 'Trebuchet MS';
+    background-color: black;
+    color: white
+}
+
+#weather{
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+
+#submit{
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+
+/* ***************************
+** Tablet Media Query
+*************************** */
+
+@media screen and (min-width: 480px) {
+}
+
+/* ***************************
+** Desktop Media Query
+*************************** */
+
+@media screen and (min-width: 769px) {
+}
+
